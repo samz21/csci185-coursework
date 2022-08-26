@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(234, 165, 165); 
+    margin:0; 
+    display: inline-block;
+}
+
+h1{
+    margin:0; 
+}
+.yellow-banner {
+    background-color: rgb(246, 210, 51);
+    padding:30px;
+    
+}
+/* Your code here */
